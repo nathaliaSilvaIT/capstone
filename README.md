@@ -1,4 +1,4 @@
-# Capstone
+# Academy - Our Capstone Project
 
 Academy is a detail focused social media platform intended to be applied in academic, post-secondary institutions. The vision of the project is centered around helping students to maximize their educational experiences by providing subtle and effective guidance and social structure through three main modules which are Academic Support Network and Extra Curricular Broadcasting
 
